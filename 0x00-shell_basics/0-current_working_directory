@@ -1,2 +1,2 @@
 #!/bin/bash 
-current_dir=$(pwd) echo "Current working directory: $0x00-shell_basics"
+pwd
