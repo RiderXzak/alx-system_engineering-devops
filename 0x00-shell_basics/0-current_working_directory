@@ -1,2 +1,2 @@
 #!/bin/bash 
-/tmp/correction/5443345014601252315914860016974816326600_5/205/272528/0x00-shell_basics
+current_dir=$(pwd) echo "Current working directory: $0x00-shell_basics"
