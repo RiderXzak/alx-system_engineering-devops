@@ -1,2 +1,2 @@
 #!/bin/bash
-file $(ls /tmp/imafile)
+file -C /tmp/imafile
