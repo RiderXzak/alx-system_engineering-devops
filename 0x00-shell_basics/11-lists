@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltag . .. /boot
+ls -lag . .. /boot
